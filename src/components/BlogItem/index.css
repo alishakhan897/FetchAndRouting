@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.Blog-item-container {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .Blog-item-container {
+    width: 50%;
+  }
+}
